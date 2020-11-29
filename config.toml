@@ -1,0 +1,4 @@
+baseURL = "https://ystk0731.github.io/"
+languageCode = "ja-jp"
+title = "My Memo Site"
+theme = "gohugo-theme-ananke"
